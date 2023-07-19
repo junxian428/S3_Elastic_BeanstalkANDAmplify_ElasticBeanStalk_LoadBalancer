@@ -2,6 +2,8 @@
 
 S3 + Elastic Beanstalk
 
+![image](https://github.com/junxian428/S3_Elastic_BeanstalkANDAmplify_ElasticBeanStalk_LoadBalancer/assets/58724748/8901e63d-bcad-47a6-8906-a65fdcffc618)
+
 no SSL issue since HTTP 
 
 ________________________________________________
@@ -68,6 +70,8 @@ PORT 8080 is set
 _________________________________
 
 Amplify + Elastic BeanStalk 
+
+![image](https://github.com/junxian428/S3_Elastic_BeanstalkANDAmplify_ElasticBeanStalk_LoadBalancer/assets/58724748/99aa1b91-b830-4b30-98c2-3090f0e9899b)
 
 
 Frontend: VueJS
