@@ -75,8 +75,12 @@ Frontend: VueJS
 Amplify can import repository from GitLab, BitBucket etc...
 
 
-It will be HTTPS, Therefore the application will face the HTTPS over HTTP insecure API therefore requires Load Balancer to make the endpoint as HTTPS.
+It will be HTTPS, Therefore the application will face the HTTPS over HTTP insecure API there
+![Untitled design (1)](https://github.com/junxian428/S3_Elastic_BeanstalkANDAmplify_ElasticBeanStalk_LoadBalancer/assets/58724748/b8bbe676-a4ab-45df-9ced-416960362beb)
+fore requires Load Balancer to make the endpoint as HTTPS.
 But I have encouter privacy error from browser (Going to solve)
+
+
 
 Requires Load Balancer (SSL)
 
