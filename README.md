@@ -90,4 +90,7 @@ Requires Load Balancer (SSL)
 
 -> 
 
+![Untitled Diagram drawio (9)](https://github.com/junxian428/S3_Elastic_BeanstalkANDAmplify_ElasticBeanStalk_LoadBalancer/assets/58724748/c519c4a8-3ad1-456a-8e3f-016b06f7857b)
+
+
 
